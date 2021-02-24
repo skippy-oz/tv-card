@@ -18,7 +18,6 @@
 This card is for [Lovelace](https://www.home-assistant.io/lovelace) on [Home Assistant](https://www.home-assistant.io/) that display a [TV]() remote.
 
 # NOTE: Firefox releases before 67 are not supported
-https://twitter.com/_developit/status/1090364879377260544
 
 ![ex](KOLwmt1vGh.png)
 
@@ -81,8 +80,8 @@ Install `tv-card` by copying `tv-card.js` and `tv-card-editor.js` from this repo
 **Example:**
 
 ```bash
-wget https://raw.githubusercontent.com/marrobHD/tv-card/master/tv-card.js
-wget https://raw.githubusercontent.com/marrobHD/tv-card/master/tv-card-editor.js
+wget https://raw.githubusercontent.com/skippy-oz/tv-card/master/tv-card.js
+wget https://raw.githubusercontent.com/skippy-0z/tv-card/master/tv-card-editor.js
 mv tv-card* /config/www/
 ```
 
@@ -231,7 +230,7 @@ Add this to your `configuration.yaml`
 ```
 custom_updater:
   card_urls:
-    - https://raw.githubusercontent.com/marrobHD/tv-card/master/tracker.json
+    - https://raw.githubusercontent.com/marrobHD/skippy-0z/master/tracker.json
 ```
 
 
