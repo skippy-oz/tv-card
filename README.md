@@ -230,7 +230,7 @@ Add this to your `configuration.yaml`
 ```
 custom_updater:
   card_urls:
-    - https://raw.githubusercontent.com/marrobHD/skippy-0z/master/tracker.json
+    - https://raw.githubusercontent.com/marrobHD/skippy-oz/master/tracker.json
 ```
 
 
